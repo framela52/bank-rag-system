@@ -117,7 +117,7 @@ bank_rag/
 
 ### Клонирование репозитория
 
-git clone https://github.com/ВАШ_НИК/bank-rag-system.git
+git clone https://github.com/framela52/bank-rag-system.git
 cd bank-rag-system
 
 Чтобы запустить все тесты по каждому этапу, введите в терминале:
